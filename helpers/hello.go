@@ -1,5 +1,5 @@
 package helpers
 
-func hello(tes string) string {
+func Hello(tes string) string {
 	return tes
 }
