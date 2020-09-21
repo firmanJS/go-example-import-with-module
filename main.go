@@ -6,7 +6,7 @@ import (
 )
 
 func main(){
-	test := helpers.hello()
+	test := helpers.hello("adam")
 
 	fmt.Println(test)
 }
